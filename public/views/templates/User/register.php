@@ -1,0 +1,1 @@
+Jesteś w rejestracji. Przejdź do <a href="<?php echo $url; ?>">logowania</a>

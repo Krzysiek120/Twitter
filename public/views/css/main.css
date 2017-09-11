@@ -1,0 +1,73 @@
+body {
+    background-color: cornflowerblue;
+    color: captiontext;
+    float:left;
+}
+
+h1 {
+    margin-left: 100px;
+}
+
+input[type='submit'] {
+    background-color: #cdcdcd;
+    border-color: #222;    
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+
+.logPassArea {
+    float: left;
+    margin-left: 100px;
+}
+
+#regPass {
+    clear: both;
+}
+
+#logSubmit {
+    clear: both;
+    width: 230px;
+    background-color: green;
+    color: white;
+}
+
+#logSubmit:hover {
+    cursor: pointer;
+}
+
+#regSubmit {
+    float: left;
+    width: 230px;
+    background-color: green;
+    color: white;
+}
+
+#regSubmit:hover {
+    cursor: pointer;
+}
+
+h3 {
+    clear: both;
+}
+
+#image {
+    float: left;
+    height: auto;
+    width: auto;
+}
+
+#footer {
+    clear: both;
+}
+
+#img {
+    margin-left: 400px;
+}
